@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RxDelaySearch</string>
+    <string name="search_output_label">Searched for:</string>
+</resources>
